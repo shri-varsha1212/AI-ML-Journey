@@ -3,7 +3,7 @@
 Hi! I'm Shri Varsha, a Biomedical Engineering graduate transitioning into AI & Machine Learning.
 
 ## My Goal
-To become a Healthcare AI Engineer by building real-world projects in:
+To become a  AI Engineer by building real-world projects in:
 - Python
 - SQL
 - Data Science
